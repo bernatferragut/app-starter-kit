@@ -1,4 +1,4 @@
-# Nimiq App Starter Kit - YO!
+# Nimiq App Starter Kit
 
 > Use this app starter kit to create a Nimiq-powered app in seconds. It contains all the boilerplate code needed to get
 you started. Check out the [demo](https://nimiq.github.io/app-starter-kit/).
